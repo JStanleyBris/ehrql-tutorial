@@ -1,0 +1,70 @@
+{
+  "files": {
+    "nhsd-primary-care-domain-refsets-dm_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/dm_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/dm_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.135784Z",
+      "sha": "74416afc5f641739dea84a66ccc7a5b33b720f95"
+    },
+    "nhsd-primary-care-domain-refsets-dmres_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/dmres_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/dmres_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.267922Z",
+      "sha": "57682a6345da78472609f01f1ca065ace27fcb43"
+    },
+    "nhsd-primary-care-domain-refsets-prt_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/prt_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/prt_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.389335Z",
+      "sha": "a649cc39b29ce01b2d2f08feb69f389c7e7b1637"
+    },
+    "nhsd-primary-care-domain-refsets-mal_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/mal_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/mal_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.525871Z",
+      "sha": "d2a2d7658cd2c882cdc00b5094af9a0b30749d43"
+    },
+    "nhsd-primary-care-domain-refsets-dsep_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/dsep_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/dsep_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.673289Z",
+      "sha": "c047712d3b766520fa743c7995c27b2bba79fac7"
+    },
+    "nhsd-primary-care-domain-refsets-mildfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/mildfrail_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/mildfrail_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.793451Z",
+      "sha": "287e3aa3ce94231113cb0c9af1091107dbabe0db"
+    },
+    "nhsd-primary-care-domain-refsets-modfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/modfrail_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/modfrail_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:54.912053Z",
+      "sha": "56e072d745c694138061f9707795c2be449293fb"
+    },
+    "nhsd-primary-care-domain-refsets-sevfrail_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/sevfrail_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/sevfrail_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:55.026470Z",
+      "sha": "2c8598f919253b9bbaed288cb284a2e267d77758"
+    },
+    "nhsd-primary-care-domain-refsets-ifcchbam_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/ifcchbam_cod/20200812",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/ifcchbam_cod/20200812/",
+      "downloaded_at": "2024-11-21 07:54:55.187492Z",
+      "sha": "e21d68e5ab0433ed7ca7106ace258910922cbd14"
+    },
+    "opensafely-ace-inhibitor-medications.csv": {
+      "id": "opensafely/ace-inhibitor-medications/2020-05-19",
+      "url": "https://www.opencodelists.org/codelist/opensafely/ace-inhibitor-medications/2020-05-19/",
+      "downloaded_at": "2024-11-21 07:54:55.344199Z",
+      "sha": "5575c56cbd5c015a7ad344c525994e87377c6120"
+    },
+    "opensafely-angiotensin-ii-receptor-blockers-arbs.csv": {
+      "id": "opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19",
+      "url": "https://www.opencodelists.org/codelist/opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19/",
+      "downloaded_at": "2024-11-21 07:54:55.489846Z",
+      "sha": "161a99b3f75ab3ea3c712ea045ee44063f068c52"
+    }
+  }
+}
